@@ -88,12 +88,12 @@
 					<div class="col-lg-5 col-md-5 m-b30">
 						<div class="bg-primary text-white contact-info-bx">
 							<h2 class="m-b10 title-head">Contact <span>Information</span></h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+							<p>we're pleased to have you .</p>
 							<div class="widget widget_getintuch">	
 								<ul>
-									<li><i class="ti-location-pin"></i>75k Newcastle St. Ponte Vedra Beach, FL 309382 New York</li>
-									<li><i class="ti-mobile"></i>0800-123456 (24/7 Support Line)</li>
-									<li><i class="ti-email"></i>info@example.com</li>
+									<li><i class="ti-location-pin"></i> 7,Opposite water corp.NEPA, Akure Ondo state</li>
+									<li><i class="ti-mobile"></i>0800-123456</li>
+									<li><i class="ti-email"></i>info@fittzy.com</li>
 								</ul>
 							</div>
 							<h5 class="m-t0 m-b20">Follow Us</h5>

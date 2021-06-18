@@ -113,8 +113,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 heading-bx text-center">
-                            <h2 class="title-head text-uppercase m-b0">Welcome to <span> Our Institution</span></h2>
-                            <p>About us</p>
+                            <h2 class="title-head text-uppercase m-b0"><span>We're set to raise   </span> IT Giants</h2>
+                            <p>welcome to the  Institute</p>
                         </div>
                         <div class="col-lg-8 offset-2"><p>Lorem ipsum dolor sit amet consectetur adipiscing
                                 elit vulputate sed cum venenatis potenti laoreet urna, cursus mus fames nulla
@@ -149,7 +149,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center text-white mb-5">
 							<h2>Why choose us </h2>
-							<h5>A professional institute with FUTA Affiliation </h5>
+							<h5>A professional institute in collaboration with CRC FUTA Akure </h5>
                             <div class="join-content-bx text-white">Lorem ipsum dolor sit amet consectetur adipiscing elit litora
                                 suspendisse
                                 montes, ultricies praesent quisque ornare id ante
@@ -346,17 +346,17 @@
                                     and typesetting industry.</p>
                                 <div class="widget widget_getintuch">
                                     <ul>
-                                        <li><i class="fa-certificate"></i>PMP+ </li>
-                                        <li><i class="fa-certificate"></i>AWS</li>
-                                        <li><i class="fa-certificate"></i> BCS </li>
-                                        <li><i class="fa-certificate"></i> Microsoft </li>
-                                        <li><i class="fa-certificate"></i> CCNA  </li>
+                                        <li><i class="fa fa-certificate"></i>PMP+ </li>
+                                        <li><i class="fa fa-certificate"></i>AWS</li>
+                                        <li><i class="fa fa-certificate"></i> BCS </li>
+                                        <li><i class="fa fa-certificate"></i> Microsoft </li>
+                                        <li><i class=" fa fa-certificate"></i> CCNA  </li>
                                     </ul>
                                 </div>
                                 <h5 class="m-t0 m-b20">certifications </h5>
                                 <ul class="list-inline contact-social-bx">
                                     <ul class="list-checked primary">
-                                        <li>Over 37 lectures and 55.5 hours of content!</li>
+                                        <li>we are upgrading our  certifications courses </li>
 
                                     </ul>
                                 </ul>
@@ -627,107 +627,13 @@
 <script src="assets/vendors/owl-carousel/owl.carousel.js"></script>
 <script src="assets/js/functions.js"></script>
 <script src="assets/js/contact.js"></script>
-<script src='assets/vendors/switcher/switcher.js'></script>
+
 <!-- Revolution JavaScripts Files -->
 <script src="assets/vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
 <script src="assets/vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
 <!-- Slider revolution 5.0 Extensions  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="assets/vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
-<script>
-jQuery(document).ready(function() {
-	var ttrevapi;
-	var tpj =jQuery;
-	if(tpj("#rev_slider_486_1").revolution == undefined){
-		revslider_showDoubleJqueryError("#rev_slider_486_1");
-	}else{
-		ttrevapi = tpj("#rev_slider_486_1").show().revolution({
-			sliderType:"standard",
-			jsFileLocation:"assets/vendors/revolution/js/",
-			sliderLayout:"fullwidth",
-			dottedOverlay:"none",
-			delay:9000,
-			navigation: {
-				keyboardNavigation:"on",
-				keyboard_direction: "horizontal",
-				mouseScrollNavigation:"off",
-				mouseScrollReverse:"default",
-				onHoverStop:"on",
-				touch:{
-					touchenabled:"on",
-					swipe_threshold: 75,
-					swipe_min_touches: 1,
-					swipe_direction: "horizontal",
-					drag_block_vertical: false
-				}
-				,
-				arrows: {
-					style: "uranus",
-					enable: true,
-					hide_onmobile: false,
-					hide_onleave: false,
-					tmp: '',
-					left: {
-						h_align: "left",
-						v_align: "center",
-						h_offset: 10,
-						v_offset: 0
-					},
-					right: {
-						h_align: "right",
-						v_align: "center",
-						h_offset: 10,
-						v_offset: 0
-					}
-				},
-				
-			},
-			viewPort: {
-				enable:true,
-				outof:"pause",
-				visible_area:"80%",
-				presize:false
-			},
-			responsiveLevels:[1240,1024,778,480],
-			visibilityLevels:[1240,1024,778,480],
-			gridwidth:[1240,1024,778,480],
-			gridheight:[768,600,600,600],
-			lazyType:"none",
-			parallax: {
-				type:"scroll",
-				origo:"enterpoint",
-				speed:400,
-				levels:[5,10,15,20,25,30,35,40,45,50,46,47,48,49,50,55],
-				type:"scroll",
-			},
-			shadow:0,
-			spinner:"off",
-			stopLoop:"off",
-			stopAfterLoops:-1,
-			stopAtSlide:-1,
-			shuffle:"off",
-			autoHeight:"off",
-			hideThumbsOnMobile:"off",
-			hideSliderAtLimit:0,
-			hideCaptionAtLimit:0,
-			hideAllCaptionAtLilmit:0,
-			debugMode:false,
-			fallbacks: {
-				simplifyAll:"off",
-				nextSlideOnWindowFocus:"off",
-				disableFocusListener:false,
-			}
-		});
-	}
-});	
-</script>
+
+
 </body>
 
 </html>

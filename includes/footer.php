@@ -25,8 +25,7 @@
                 <div class="col-lg-4 col-md-12 col-sm-12 footer-col-4">
                     <div class="widget">
                         <h5 class="footer-title">Address</h5>
-                        <p class="text-capitalize m-b20">Weekly Breaking news analysis
-                            and cutting edge advices on job searching.</p>
+                        <p class="text-capitalize m-b20">7,Opposite water corp.NEPA, Akure Ondo state<</p>
                         <div class="subscribe-form m-b20">
 
                         </div>

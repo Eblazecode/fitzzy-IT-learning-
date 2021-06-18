@@ -94,7 +94,7 @@
                     </div>
                     <div class="col-lg-7 col-md-12 heading-bx p-lr">
                         <div class="video-bx">
-                            <img src="assets/images/about/pic1.jpg" alt=""/>
+                            <img src="assets/christina-wocintechchat-com-YVT21p6pO_g-unsplash.jpg" alt=""/>
                             <a href="https://www.youtube.com/watch?v=x_sJzVe9P_8" class="popup-youtube video"><i class="fa fa-play"></i></a>
                         </div>
                     </div>
@@ -108,9 +108,11 @@
                 <div class="container">
 					 <div class="row">
 						 <div class="col-lg-6 m-b30">
-							<h2 class="title-head ">Learn a new skill online<br/> <span class="text-primary"> on your time</span></h2>
-							<h4><span class="counter">57,000 </span> Online Courses</h4>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+							<h2 class="title-head ">Skill up <br/> <span class="text-primary"> The excellent way </span></h2>
+
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy
+                                text ever since the 1500s, when an unknown printer took a galley of type.</p>
 							<a href="#" class="btn button-md">Join Now</a>
 						 </div>
 						 <div class="col-lg-6">
@@ -121,7 +123,7 @@
 											<a href="#" class="icon-cell"><img src="assets/images/icon/icon1.png" alt=""/></a> 
 										</div>
 										<div class="icon-content">
-											<h5 class="ttr-tilte">Our Philosophy</h5>
+											<h5 class="ttr-tilte">Philosophy</h5>
 											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing.</p>
 										</div>
 									</div>
@@ -154,7 +156,7 @@
 											<a href="#" class="icon-cell"><img src="assets/images/icon/icon4.png" alt=""/></a> 
 										</div>
 										<div class="icon-content">
-											<h5 class="ttr-tilte">Our Philosophy</h5>
+											<h5 class="ttr-tilte">Our vision</h5>
 											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing.</p>
 										</div>
 									</div>
