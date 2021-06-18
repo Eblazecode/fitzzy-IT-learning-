@@ -125,7 +125,7 @@
 
 
                             </p>
-                            <a href="#" class="btn">Read More</a>
+                            <a href="about.php" class="btn">Read More</a>
 
                         </div>
                     </div>

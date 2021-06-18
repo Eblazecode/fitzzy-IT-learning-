@@ -95,7 +95,7 @@
                     <div class="col-lg-7 col-md-12 heading-bx p-lr">
                         <div class="video-bx">
                             <img src="assets/christina-wocintechchat-com-YVT21p6pO_g-unsplash.jpg" alt=""/>
-                            <a href="https://www.youtube.com/watch?v=x_sJzVe9P_8" class="popup-youtube video"><i class="fa fa-play"></i></a>
+
                         </div>
                     </div>
                 </div>
