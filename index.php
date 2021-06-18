@@ -69,7 +69,7 @@
     <div class="page-content bg-white">
         <!-- Main Slider -->
         <div class="section-area section-sp2 bg-fix
-         ovbl-dark join-bx" style="background-image:url(assets/christina-wocintechchat-com-RTJIXQNne68-unsplash.jpg);">
+         ovbl-dark join-bx" style="background-image:url(assets/CODING.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center heading-bx text-white">
@@ -96,7 +96,7 @@
                     <div class="col-md-6">
                         <div class="video-bx">
                             <img src="assets/christina-wocintechchat-com-YVT21p6pO_g-unsplash.jpg" alt=""/>
-                            <a href="https://www.youtube.com/watch?v=x_sJzVe9P_8"
+                            <a href="https://www.youtube.com/watch?v=vPk-H7Cu9Lo"
                                class="popup-youtube video"><i class="fa fa-play"></i></a>
                         </div>
                     </div>
@@ -120,10 +120,7 @@
                                 elit vulputate sed cum venenatis potenti laoreet urna, cursus mus fames nulla
                                 viverra est non pharetra aenean sollicitudin faucibus cubilia natoque. Primis
                                 curae pharetra aliquam metus ornare vehicula ac torquent laoreet, donec tinc
-                                idunt fames suscipit facilisis urna integer justo per etiam, semper convalli
-                                s luctus aliquet tempor habitasse mi auctor. Urna eros parturient sed justo
-                                suscipit curae nec, per nam facilisis turpis rhoncus ultrices lacus enim, t
-                                incidunt vestibulum ullamcorper aliquam nisi dui. Purus fusce praesent mus
+
 
 
 
@@ -392,8 +389,8 @@
 									<div class="event-info">
 										<h4 class="event-title"><a href="#">coporate training </a></h4>
 										<ul class="media-post">
-											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
-											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+											<li><a href="#"><i class="fa fa-clock-o"></i> professional and flexible</a></li>
+
 										</ul>
 										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
 									</div>
@@ -415,8 +412,8 @@
 									<div class="event-info">
 										<h4 class="event-title"><a href="#">virtual class</a></h4>
 										<ul class="media-post">
-											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
-											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+											<li><a href="#"><i class="fa fa-clock-o"></i> indepth one on one</a></li>
+											<li><a href="#"><i class="fa fa-map-marker"></i> up-skilling</a></li>
 										</ul>
 										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
 									</div>
@@ -438,8 +435,8 @@
 									<div class="event-info">
 										<h4 class="event-title"><a href="#">Onsite Academic training</a></h4>
 										<ul class="media-post">
-											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
-											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+											<li><a href="#"><i class="fa fa-clock-o"></i> interesting hands</a></li>
+											<li><a href="#"><i class="fa fa-map-marker"></i> career setting y</a></li>
 										</ul>
 										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
 									</div>
