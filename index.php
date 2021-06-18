@@ -464,20 +464,32 @@
 							<div class="testimonial-bx">
 
 								<div class="testimonial-info">
-									<h5 class="name">Peter Packer</h5>
-									<p>-Art Director</p>
+									<h5 class="name">Peter Ay</h5>
+									<p>Student AAU</p>
 								</div>
 								<div class="testimonial-content">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type...</p>
 								</div>
 							</div>
 						</div>
+                        <div class="item">
+                            <div class="testimonial-bx">
+
+                                <div class="testimonial-info">
+                                    <h5 class="name">shina A</h5>
+                                    <p>Student Ondo </p>
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type...</p>
+                                </div>
+                            </div>
+                        </div>
 						<div class="item">
 							<div class="testimonial-bx">
 
 								<div class="testimonial-info">
-									<h5 class="name">Peter Packer</h5>
-									<p>-Art Director</p>
+									<h5 class="name">Ben JO</h5>
+									<p>Banker</p>
 								</div>
 								<div class="testimonial-content">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type...</p>
