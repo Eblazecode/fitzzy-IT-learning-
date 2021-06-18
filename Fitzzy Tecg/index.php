@@ -273,7 +273,7 @@
                                     </div>
                                     <div class="info-bx text-center">
                                         <h5><a href="#">UI/UX</a></h5>
-                                        <span>Design</span>
+                                        <span>Designs</span>
                                     </div>
 
                                 </div>
